@@ -1,0 +1,3 @@
+Recipe_FR = {
+	Recipe_Draw_on_Paper = "Dessiner sur du papier",
+}
