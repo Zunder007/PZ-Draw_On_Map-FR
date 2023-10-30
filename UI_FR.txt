@@ -1,0 +1,6 @@
+UI_FR = {
+	UI_DrawOnMap_Draw = "Dessiner",
+	UI_DrawOnMap_Erase = "Effacer",
+	UI_DrawOnMap_Thickness = "Épaisseur",
+	UI_DrawOnMap_Fill = "Remplir"
+}
